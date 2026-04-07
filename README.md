@@ -6,6 +6,7 @@ Este projeto e um modelo base para iniciar novos projetos front-end com React. E
 - React
 - TypeScript
 - Vite
+- React Router
 - ESLint
 
 ## Como usar
@@ -37,6 +38,9 @@ npm run lint
 
 ## Estrutura basica
 - `src/` codigo-fonte da aplicacao
+- `src/pages/` paginas
+- `src/routes/` rotas
+- `src/styles/` estilos globais
 
 ## Observacoes
 Sinta-se a vontade para ajustar este template conforme as necessidades do seu projeto.
