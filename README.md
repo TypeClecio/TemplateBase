@@ -37,7 +37,6 @@ npm run lint
 
 ## Estrutura basica
 - `src/` codigo-fonte da aplicacao
-- `public/` arquivos estaticos
 
 ## Observacoes
 Sinta-se a vontade para ajustar este template conforme as necessidades do seu projeto.
