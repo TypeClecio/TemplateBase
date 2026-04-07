@@ -42,6 +42,7 @@ npm run lint
 - `src/pages/` paginas
 - `src/routes/` rotas
 - `src/styles/` estilos globais
+- `public/` arquivos estaticos (robots, sitemap, manifest, favicon)
 
 ## Observacoes
 Sinta-se a vontade para ajustar este template conforme as necessidades do seu projeto.

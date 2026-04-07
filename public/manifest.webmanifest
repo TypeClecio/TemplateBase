@@ -1,0 +1,10 @@
+{
+  "name": "Template Modelo",
+  "short_name": "Template",
+  "description": "Modelo base para iniciar projetos front-end com React, TypeScript, Vite e React Router.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "lang": "pt-BR"
+}
