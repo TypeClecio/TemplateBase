@@ -9,6 +9,8 @@ export default defineConfig({
     alias: {
       '@data': fileURLToPath(new URL('./src/data', import.meta.url)),
       '@interfaces': fileURLToPath(new URL('./src/interfaces', import.meta.url)),
+      '@shared': fileURLToPath(new URL('./src/shared', import.meta.url)),
+      '@features': fileURLToPath(new URL('./src/features', import.meta.url)),
     },
   },
   server: {

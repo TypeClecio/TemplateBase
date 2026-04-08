@@ -16,8 +16,14 @@
     "noEmit": true,
     "jsx": "react-jsx",
     "paths": {
+      "@data": ["./src/data/index.ts"],
       "@data/*": ["./src/data/*"],
-      "@interfaces/*": ["./src/interfaces/*"]
+      "@interfaces": ["./src/interfaces/index.ts"],
+      "@interfaces/*": ["./src/interfaces/*"],
+      "@shared": ["./src/shared/index.ts"],
+      "@shared/*": ["./src/shared/*"],
+      "@features": ["./src/features/index.ts"],
+      "@features/*": ["./src/features/*"]
     },
 
     /* Linting */
